@@ -1,0 +1,26 @@
+# данные
+data/
+*.parquet
+*.csv
+*.jsonl
+*.jsonl.gz
+*.npz
+*.npy
+*.pkl
+
+# окружение
+.venv/
+venv/
+env/
+.env
+
+# кеши
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+
+# системное / IDE
+.DS_Store
+.idea/
+.vscode/
